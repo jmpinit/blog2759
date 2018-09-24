@@ -1,0 +1,132 @@
+{
+  "assetsByChunkName": {
+    "component---src-templates-project-jsx": [
+      "component---src-templates-project-jsx-d22e2368ad58ec49c332.js",
+      "component---src-templates-project-jsx-d22e2368ad58ec49c332.js.map"
+    ],
+    "path---calculator-demos": [
+      "path---calculator-demos-8b787c6c437cf3aec9cf.js",
+      "path---calculator-demos-8b787c6c437cf3aec9cf.js.map"
+    ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-d1e21df88b88c0423481.js",
+      "component---src-pages-contact-jsx-d1e21df88b88c0423481.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---l-3-d-cube": [
+      "path---l-3-d-cube-2ffde1086c3630eca586.js",
+      "path---l-3-d-cube-2ffde1086c3630eca586.js.map"
+    ],
+    "path---demomite": [
+      "path---demomite-434e6dd87eac58a5710d.js",
+      "path---demomite-434e6dd87eac58a5710d.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-c12d3d588385134c4281.js",
+      "component---src-layouts-index-jsx-c12d3d588385134c4281.js.map"
+    ],
+    "path---the-very-large-led-array": [
+      "path---the-very-large-led-array-ce1a749c6ce200abca45.js",
+      "path---the-very-large-led-array-ce1a749c6ce200abca45.js.map"
+    ],
+    "path---miasmata": [
+      "path---miasmata-bd19a64aa89adcc1c825.js",
+      "path---miasmata-bd19a64aa89adcc1c825.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---microfluidic-display": [
+      "path---microfluidic-display-d23e851487d31658de4f.js",
+      "path---microfluidic-display-d23e851487d31658de4f.js.map"
+    ],
+    "path---streaming-web-gl-to-a-calculator": [
+      "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js",
+      "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js.map"
+    ],
+    "path---index": [
+      "path---index-42167b2e69d49ed0d897.js",
+      "path---index-42167b2e69d49ed0d897.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
+      "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js.map"
+    ],
+    "commons": [
+      "commons-a31a2885a9106051a5c2.js",
+      "build-js-styles.css",
+      "commons-a31a2885a9106051a5c2.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---processing": [
+      "path---processing-826ab14ab748e692450a.js",
+      "path---processing-826ab14ab748e692450a.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-4915258c40d03ba569d8.js",
+      "component---src-pages-404-jsx-4915258c40d03ba569d8.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---polar-plotter": [
+      "path---polar-plotter-1ebd3c4b4d6bee725c1c.js",
+      "path---polar-plotter-1ebd3c4b4d6bee725c1c.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-217a2314e32b4b4e2e4f.js",
+      "component---src-pages-index-jsx-217a2314e32b4b4e2e4f.js.map"
+    ],
+    "path---patch-ar-synth": [
+      "path---patch-ar-synth-9ebbcaf7909e80441c34.js",
+      "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
+    ],
+    "app": [
+      "app-47a5c51f4e523425c246.js",
+      "build-js-styles.css",
+      "app-47a5c51f4e523425c246.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---grabloop-synth": [
+      "path---grabloop-synth-eaefc8b3a236fc63c4ec.js",
+      "path---grabloop-synth-eaefc8b3a236fc63c4ec.js.map"
+    ],
+    "path---artmatr-painting-machines": [
+      "path---artmatr-painting-machines-16b95d1d41b2da21c586.js",
+      "path---artmatr-painting-machines-16b95d1d41b2da21c586.js.map"
+    ],
+    "path---almost-gravity": [
+      "path---almost-gravity-e4c914265021ee878a19.js",
+      "path---almost-gravity-e4c914265021ee878a19.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---automata": [
+      "path---automata-6c85d65708f71fb35d73.js",
+      "path---automata-6c85d65708f71fb35d73.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pcb-reverse-engineering-tools": [
+      "path---pcb-reverse-engineering-tools-4681baedfc140ba31185.js",
+      "path---pcb-reverse-engineering-tools-4681baedfc140ba31185.js.map"
+    ]
+  }
+}
