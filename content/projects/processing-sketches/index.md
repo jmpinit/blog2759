@@ -1,0 +1,50 @@
+---
+title: "Processing"
+cover: "./images/baby-face.png"
+description: "Selection of Processing sketches I have written"
+date: "2012-06-14"
+---
+
+<!-- FIXME when was this? -->
+
+![](images/baby-face.png)
+![](images/better_radiation.gif)
+![](images/brain_web.gif)
+![](images/cells.gif)
+![](images/chems.gif)
+![](images/cubalizer.gif)
+![](images/dither-test.png)
+![](images/dither_chip.gif)
+![](images/dither_chip_chip.png)
+![](images/dithered_sine.gif)
+![](images/driving.gif)
+![](images/ed.png)
+![](images/fireworks.gif)
+![](images/fungus.gif)
+![](images/gameboy_cam.png)
+![](images/gravity_sm.gif)
+![](images/head.png)
+![](images/image_tracer.png)
+![](images/iso_example.gif)
+![](images/jellyfish.png)
+![](images/keyboard.gif)
+![](images/light_test.gif)
+![](images/mountains.gif)
+![](images/network-visualization-art.gif)
+![](images/node_net.gif)
+![](images/orbits.gif)
+![](images/rain.gif)
+![](images/rockets.gif)
+![](images/shrooms.gif)
+![](images/simple_orbit.gif)
+![](images/spores.png)
+![](images/spreading_radiation.gif)
+![](images/static_birth.png)
+![](images/sunset1.png)
+![](images/telestruct.gif)
+![](images/tetris_pic.gif)
+![](images/tiny_miasmata_proto.gif)
+![](images/universe.png)
+![](images/wavefront.gif)
+![](images/wolfenstein.gif)
+![](images/words.gif)
