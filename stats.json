@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---playing-with-circuit-stickers": [
+      "path---playing-with-circuit-stickers-1702aba8dd564e11b7f5.js",
+      "path---playing-with-circuit-stickers-1702aba8dd564e11b7f5.js.map"
+    ],
     "component---src-templates-project-jsx": [
       "component---src-templates-project-jsx-d22e2368ad58ec49c332.js",
       "component---src-templates-project-jsx-d22e2368ad58ec49c332.js.map"
@@ -25,8 +29,8 @@
       "path---demomite-434e6dd87eac58a5710d.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-c12d3d588385134c4281.js",
-      "component---src-layouts-index-jsx-c12d3d588385134c4281.js.map"
+      "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js",
+      "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js.map"
     ],
     "path---the-very-large-led-array": [
       "path---the-very-large-led-array-ce1a749c6ce200abca45.js",
@@ -49,8 +53,8 @@
       "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js.map"
     ],
     "path---index": [
-      "path---index-42167b2e69d49ed0d897.js",
-      "path---index-42167b2e69d49ed0d897.js.map"
+      "path---index-1e061219f1d817d9aeac.js",
+      "path---index-1e061219f1d817d9aeac.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -95,9 +99,9 @@
       "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
     ],
     "app": [
-      "app-47a5c51f4e523425c246.js",
+      "app-a0541930bdcd5246a85a.js",
       "build-js-styles.css",
-      "app-47a5c51f4e523425c246.js.map",
+      "app-a0541930bdcd5246a85a.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
