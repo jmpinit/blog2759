@@ -5,8 +5,8 @@
       "path---playing-with-circuit-stickers-1702aba8dd564e11b7f5.js.map"
     ],
     "component---src-templates-project-jsx": [
-      "component---src-templates-project-jsx-d22e2368ad58ec49c332.js",
-      "component---src-templates-project-jsx-d22e2368ad58ec49c332.js.map"
+      "component---src-templates-project-jsx-48f559aea5755bd288e1.js",
+      "component---src-templates-project-jsx-48f559aea5755bd288e1.js.map"
     ],
     "path---calculator-demos": [
       "path---calculator-demos-8b787c6c437cf3aec9cf.js",
@@ -53,8 +53,8 @@
       "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js.map"
     ],
     "path---index": [
-      "path---index-1e061219f1d817d9aeac.js",
-      "path---index-1e061219f1d817d9aeac.js.map"
+      "path---index-e634b265270b02b50a0b.js",
+      "path---index-e634b265270b02b50a0b.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -91,17 +91,17 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-217a2314e32b4b4e2e4f.js",
-      "component---src-pages-index-jsx-217a2314e32b4b4e2e4f.js.map"
+      "component---src-pages-index-jsx-addcf8b222bb58ddd4ed.js",
+      "component---src-pages-index-jsx-addcf8b222bb58ddd4ed.js.map"
     ],
     "path---patch-ar-synth": [
       "path---patch-ar-synth-9ebbcaf7909e80441c34.js",
       "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
     ],
     "app": [
-      "app-a0541930bdcd5246a85a.js",
+      "app-0798208787fadadaaea2.js",
       "build-js-styles.css",
-      "app-a0541930bdcd5246a85a.js.map",
+      "app-0798208787fadadaaea2.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
