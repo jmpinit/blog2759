@@ -8,7 +8,6 @@ export default class ProjectListing extends React.PureComponent {
   getList() {
     const List = [];
     this.props.projectEdges.forEach(projectEdge => {
-      console.log(projectEdge);
       const cover =
         projectEdge.node.frontmatter.cover.childImageSharp !== null
           ? projectEdge.node.frontmatter.cover.childImageSharp.sizes

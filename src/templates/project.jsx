@@ -12,7 +12,6 @@ const Project = props => {
   const { slug } = props.pathContext;
   const postNode = props.data.markdownRemark;
   const project = postNode.frontmatter;
-  console.log(project);
   const imageURL =
     project.cover.childImageSharp !== null ? project.cover.childImageSharp.resize.src : project.cover.publicURL;
 
