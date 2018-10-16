@@ -28,6 +28,10 @@
       "path---demomite-434e6dd87eac58a5710d.js",
       "path---demomite-434e6dd87eac58a5710d.js.map"
     ],
+    "path---lineworld": [
+      "path---lineworld-321909f53030169a00bb.js",
+      "path---lineworld-321909f53030169a00bb.js.map"
+    ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js",
       "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js.map"
@@ -53,8 +57,8 @@
       "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js.map"
     ],
     "path---index": [
-      "path---index-e634b265270b02b50a0b.js",
-      "path---index-e634b265270b02b50a0b.js.map"
+      "path---index-00b345c34a51ae91e404.js",
+      "path---index-00b345c34a51ae91e404.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -99,9 +103,9 @@
       "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
     ],
     "app": [
-      "app-0798208787fadadaaea2.js",
+      "app-db76f4bacc2c9a34085c.js",
       "build-js-styles.css",
-      "app-0798208787fadadaaea2.js.map",
+      "app-db76f4bacc2c9a34085c.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
@@ -119,6 +123,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---plotting-images-bigger-than-the-plotter": [
+      "path---plotting-images-bigger-than-the-plotter-e66e44dd5297883be88f.js",
+      "path---plotting-images-bigger-than-the-plotter-e66e44dd5297883be88f.js.map"
     ],
     "path---automata": [
       "path---automata-6c85d65708f71fb35d73.js",
