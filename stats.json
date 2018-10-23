@@ -56,9 +56,13 @@
       "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js",
       "path---streaming-web-gl-to-a-calculator-b368b6d9cc62b2390f8d.js.map"
     ],
+    "path---wolfenstein-like-rendering": [
+      "path---wolfenstein-like-rendering-084ac850ba2bc5d0c9ed.js",
+      "path---wolfenstein-like-rendering-084ac850ba2bc5d0c9ed.js.map"
+    ],
     "path---index": [
-      "path---index-00b345c34a51ae91e404.js",
-      "path---index-00b345c34a51ae91e404.js.map"
+      "path---index-e7b80f810e7f19dce88e.js",
+      "path---index-e7b80f810e7f19dce88e.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -103,9 +107,9 @@
       "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
     ],
     "app": [
-      "app-db76f4bacc2c9a34085c.js",
+      "app-f052fe7e493d9c9867d0.js",
       "build-js-styles.css",
-      "app-db76f4bacc2c9a34085c.js.map",
+      "app-f052fe7e493d9c9867d0.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
