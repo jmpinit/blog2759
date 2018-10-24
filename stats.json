@@ -61,8 +61,8 @@
       "path---wolfenstein-like-rendering-084ac850ba2bc5d0c9ed.js.map"
     ],
     "path---index": [
-      "path---index-e7b80f810e7f19dce88e.js",
-      "path---index-e7b80f810e7f19dce88e.js.map"
+      "path---index-52b8c54088e0f9b4249d.js",
+      "path---index-52b8c54088e0f9b4249d.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -103,13 +103,13 @@
       "component---src-pages-index-jsx-addcf8b222bb58ddd4ed.js.map"
     ],
     "path---patch-ar-synth": [
-      "path---patch-ar-synth-9ebbcaf7909e80441c34.js",
-      "path---patch-ar-synth-9ebbcaf7909e80441c34.js.map"
+      "path---patch-ar-synth-10f93ae2b799693237d7.js",
+      "path---patch-ar-synth-10f93ae2b799693237d7.js.map"
     ],
     "app": [
-      "app-f052fe7e493d9c9867d0.js",
+      "app-e522f0e4a045eab6624a.js",
       "build-js-styles.css",
-      "app-f052fe7e493d9c9867d0.js.map",
+      "app-e522f0e4a045eab6624a.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
