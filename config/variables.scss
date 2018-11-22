@@ -100,9 +100,9 @@ html {
 
 $background-color: #f3f3f3;
 $body-color: #222;
-$link-color: $brand-primary;
+$link-color: #555;
 $link-decoration: none;
-$link-color-hover: darken($brand-primary, 15%);
+$link-color-hover: darken($link-color, 15%);
 $link-decoration-hover: none;
 
 $table-bg: $background-color;
