@@ -32,6 +32,10 @@
       "path---lineworld-321909f53030169a00bb.js",
       "path---lineworld-321909f53030169a00bb.js.map"
     ],
+    "path---artmatr": [
+      "path---artmatr-1cae4987f2e71e715d66.js",
+      "path---artmatr-1cae4987f2e71e715d66.js.map"
+    ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js",
       "component---src-layouts-index-jsx-a2cae9a4ce3fcc8b208c.js.map"
@@ -61,8 +65,8 @@
       "path---wolfenstein-like-rendering-084ac850ba2bc5d0c9ed.js.map"
     ],
     "path---index": [
-      "path---index-52b8c54088e0f9b4249d.js",
-      "path---index-52b8c54088e0f9b4249d.js.map"
+      "path---index-ef5b1ab4f08158d5fa6a.js",
+      "path---index-ef5b1ab4f08158d5fa6a.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-045978fdde31dcd2e0aa.js",
@@ -107,9 +111,9 @@
       "path---patch-ar-synth-10f93ae2b799693237d7.js.map"
     ],
     "app": [
-      "app-e522f0e4a045eab6624a.js",
+      "app-efdcff5c7781104593cf.js",
       "build-js-styles.css",
-      "app-e522f0e4a045eab6624a.js.map",
+      "app-efdcff5c7781104593cf.js.map",
       "build-js-styles.css.map"
     ],
     "path---grabloop-synth": [
